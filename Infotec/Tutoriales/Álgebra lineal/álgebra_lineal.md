@@ -25,10 +25,11 @@ description: Curso propedéutico de Computación
 
 #### 2. **Multiplicación Matricial**
 - **`A @ B` o `np.dot(A, B)`**: Para multiplicar matrices A y B matricialmente.
+  
   ```python
   resultado = A @ B
   ```
-
+  
 - **`A * B` o `np.multiply(A, B)`**: Para multiplicar matrices elemento a elemento.
 
 ---
@@ -68,15 +69,16 @@ description: Curso propedéutico de Computación
 #### 7. **Inversa de una Matriz**
 - **`np.inv()`**: Calcula la inversa de una matriz.
   ```python
-  inversa = np.inv(matriz)
+  inversa = np.linalg.inv(matriz)
   ```
 
 ---
 
-#### 8. **Autovalores y Autovectores**
+#### 8. **Eigenvalores y eigenvectores**
+
 - **`np.eig()`**: Calcula los autovalores y autovectores de una matriz.
   ```python
-  autovalores, autovectores = np.eig(matriz)
+  eigenvals, eigenvecs = np.linalg.eig(A)
   ```
 
 ---
