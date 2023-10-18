@@ -1,0 +1,103 @@
+---
+marp: true
+theme: uncover
+author: Prof. Juliho Castillo Colmenares Ph.D.
+title: Computación
+description: Curso propedéutico de Computación
+---
+
+### Tutorial: Introducción a Python
+
+---
+
+**1. Impresión en Python**:
+- La función `print()` se utiliza para mostrar mensajes y valores en la consola.
+- Ejemplo: `print("Hola Mundo")`.
+- A diferencia de otros lenguajes, Python no utiliza caracteres especiales como `;` al final de la instrucción.
+
+---
+
+**2. Declaración de Variables en Python**:
+- Python es un lenguaje de tipado dinámico, lo que significa que no es necesario declarar el tipo de dato de una variable al crearla.
+- Ejemplo: `edad = 25`.
+- Las variables pueden cambiar de tipo después de que se les haya asignado un valor.
+
+---
+
+**3. Funciones en Python**:
+- Las funciones se definen usando la palabra clave `def`.
+- Ejemplo: `def mi_funcion():`.
+- Los parámetros se especifican entre paréntesis después del nombre de la función.
+
+---
+
+**4. Operadores Aritméticos en Python**:
+- `%` es el operador de módulo, que devuelve el resto de una división.
+- Ejemplo: `5 % 2` devuelve `1`.
+- Otros operadores incluyen `+`, `-`, `*`, `/`.
+
+---
+
+**5. Estructuras de Control en Python**:
+- `if`, `elif`, y `else` son las estructuras de control condicionales en Python.
+- Ejemplo:
+  ```python
+  if condicion:
+      # bloque de código
+  elif otra_condicion:
+      # otro bloque de código
+  else:
+      # bloque de código alternativo
+  ```
+
+---
+
+**6. Listas en Python**:
+- Las listas son colecciones ordenadas y modificables.
+- Se crean usando corchetes `[]`.
+- Ejemplo: `mi_lista = [1, 2, 3]`.
+- Las listas pueden contener diferentes tipos de datos.
+
+---
+
+**7. Bucles en Python**:
+- `for`: utilizado para iterar sobre una secuencia (lista, tupla, diccionario, conjunto o cadena).
+- `while`: ejecuta un conjunto de declaraciones siempre que una condición sea verdadera.
+- Ejemplo:
+  ```python
+  for i in range(5):
+      print(i)
+  ```
+
+---
+
+**8. Módulos en Python**:
+- Los módulos son archivos que contienen un conjunto de funciones.
+- Se pueden importar usando `import`.
+- Ejemplo: `import math` o `from math import sqrt`.
+
+---
+
+**9. Declaración de Funciones con Parámetros en Python**:
+- Las funciones pueden tener parámetros, que son valores que se pasan cuando se llama a la función.
+- Ejemplo: 
+  ```python
+  def saludo(nombre):
+      print("Hola, " + nombre)
+  ```
+
+---
+
+**10. Condicionales Avanzados en Python**:
+- `elif` es una forma de decir "si las condiciones anteriores no eran verdaderas, prueba esta condición".
+- Ejemplo:
+  ```python
+  if a > b:
+      print("a es mayor que b")
+  elif a == b:
+      print("a y b son iguales")
+  ```
+
+---
+
+Estas notas proporcionan una visión general de los temas mencionados. Para un entendimiento profundo, es recomendable revisar cada tema en detalle y practicar con ejemplos reales.
