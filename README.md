@@ -1,4 +1,77 @@
-# Python 
 
-Este repositorio contiene materiales que he desarrollado a través de los años. La experiencia me ha mostrado que no hay mejor manera de aprender que equivocarse, y estos recursos reflejan esta filosofía personal. No son notas solo para consumirse, ya que ante todo, dominar un tema requiere de práctica constante, y paciencia para recorrer más de una vez el camino. Por lo que es más que seguro, que este repositorio nunca este terminado, y toda sugerencia, comentario o queja será bienvenido. 
+# Notas sobre Python
 
+*Dr. Juliho Castillo Colmenares*
+
+---
+
+## Python básico
+
+1.   Primeros pasos
+2.   Cadenas
+3.   Sentencias condicionales
+4.   Ciclos
+5.   Recursión
+
+---
+
+## Python Intermedio
+
+1. Variables
+4. Funciones
+4. Listas
+4. Diccionarios
+4. Archivos JSON
+4. Clases 
+4. Métodos dunder
+4. Herencia y polimorfismo
+4. Encapsulamiento
+
+---
+
+## Ciencia de datos
+
+1. Pandas
+1. Covarianza
+1. Normalización
+1. Correlación 
+1. Aplicaciones de la correlación
+
+---
+
+## Cómputo Científico
+
+
+---
+
+##  Infotec
+
+---
+
+### Sesiones
+
+Estas son las notas con el material extendido para cada sesión. 
+
+1. Primeros pasos en Python 
+2. Vectores y matrices
+3. Cálculo con Sympy
+4. Gráficos y visualización
+5. Procesamiento y análisis de datos 
+6. Modelación estadística
+
+---
+
+### Tutoriales
+
+Estos son resumenes de los temas fundamentales que debes conocer para resolver los cuestionarios.
+1. Computación
+2. Álgebra lineal
+3. Cálculo
+4. Estadística 
+
+---
+
+## Kaggle
+
+1.   Titanic
+2.   House prices

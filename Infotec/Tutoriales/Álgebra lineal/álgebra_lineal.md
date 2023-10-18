@@ -36,7 +36,7 @@ description: Curso propedéutico de Computación
 #### 3. **Determinante de una Matriz**
 - **`np.det()`**: Calcula el determinante de una matriz.
   ```python
-  det = np.det(matriz)
+  det = np.linalg.det(matriz)
   ```
 
 ---
