@@ -37,20 +37,10 @@
 1. Correlación 
 1. Aplicaciones de la correlación
 
----
-
-## Cómputo Científico
-
 
 ---
 
-##  Infotec
-
----
-
-### Sesiones
-
-Estas son las notas con el material extendido para cada sesión. 
+##  Curso propedéutico
 
 1. Primeros pasos en Python 
 2. Vectores y matrices
@@ -58,16 +48,6 @@ Estas son las notas con el material extendido para cada sesión.
 4. Gráficos y visualización
 5. Procesamiento y análisis de datos 
 6. Modelación estadística
-
----
-
-### Tutoriales
-
-Estos son resumenes de los temas fundamentales que debes conocer para resolver los cuestionarios.
-1. Computación
-2. Álgebra lineal
-3. Cálculo
-4. Estadística 
 
 ---
 

@@ -1,5 +1,3 @@
----
-
 # Introducción al cómputo con Python
 
 **Introducción al cómputo con Python**
