@@ -201,10 +201,10 @@ print(solucion_trascendental)
 
 SymPy también puede resolver sistemas de ecuaciones lineales. Supongamos que queremos resolver el siguiente sistema:
 
-\[ \begin{align*}
+$ \begin{align*}
 x + y &= 5 \\
 x - y &= 1 \\
-\end{align*} \]
+\end{align*} $
 
 ```python
 y = symbols('y')
