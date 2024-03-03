@@ -281,9 +281,8 @@ El objeto `Figure` en Matplotlib representa el lienzo en el que se dibujarán lo
 
 Para crear un objeto `Figure`, podemos utilizar la función `Figure()`. Esta función toma dos argumentos opcionales: el ancho y la altura del lienzo en píxeles.
 
-Python
 
-```
+```Python
 import matplotlib.pyplot as plt
 
 # Crear un objeto Figure

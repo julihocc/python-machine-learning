@@ -28,19 +28,7 @@
 4. Encapsulamiento
 
 ---
-
-## Ciencia de datos
-
-1. Pandas
-1. Covarianza
-1. Normalización
-1. Correlación 
-1. Aplicaciones de la correlación
-
-
----
-
-##  Curso propedéutico
+##  Fundamentos de Matemáticas
 
 1. Primeros pasos en Python 
 2. Vectores y matrices
@@ -51,7 +39,12 @@
 
 ---
 
-## Kaggle
+## Ciencia de datos
 
+1. Pandas
+1. Covarianza
+1. Normalización
+1. Correlación 
+1. Aplicaciones de la correlación
 1.   Titanic
-2.   House prices
+1.   House prices
