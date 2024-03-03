@@ -35,16 +35,17 @@
 3. Cálculo con Sympy
 4. Gráficos y visualización
 5. Procesamiento y análisis de datos 
-6. Modelación estadística
 
 ---
 
-## Ciencia de datos
+## Estadística matemática
+
 
 1. Pandas
 1. Covarianza
 1. Normalización
 1. Correlación 
 1. Aplicaciones de la correlación
-1.   Titanic
-1.   House prices
+1. Modelación estadística
+2. Modelos de clasificación
+3. Modelos de regresión
