@@ -38,7 +38,7 @@
 
 ---
 
-## Estadística matemática
+## Ciencia de datos
 
 
 1. Pandas
